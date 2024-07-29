@@ -27,4 +27,4 @@ The project involved addressing 10 ad-hoc query requests, each aimed at answerin
 - Analytical Thinking
 - Communication
 
-For any questions or feedback, please reach out to [Linkedin]().
+For any questions or feedback, please reach out to [Linkedin](https://www.linkedin.com/in/shafana-09579328b/)
